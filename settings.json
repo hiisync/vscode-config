@@ -1,0 +1,9 @@
+{
+    "git.autofetch": true,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "JetBrainsMonoNL Nerd Font Mono",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "extensions.ignoreRecommendations": true,
+    "editor.inlineSuggest.suppressSuggestions": true
+}
